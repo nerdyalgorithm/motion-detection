@@ -97,7 +97,7 @@ for contour in contours:
 
 ## Contact
 
-Created by Heaven (GitHub: [nerdyalgorithm](https://github.com/nerdyalgorithm)).
+Created by [ANGELIC](https://github.com/visionbyangelic) (GitHub username: **visionbyangelic**).  
+Feel free to open issues or reach out on GitHub for questions or feedback.
 
-Feel free to open issues or contribute!
-
+---
